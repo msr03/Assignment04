@@ -104,6 +104,9 @@
         flex-wrap: wrap;
         justify-content: center;
     }
+    #map{
+        width: 80%;
+    }
   }
   #shopname{
     font-weight: bolder;
